@@ -1,0 +1,55 @@
+h1 {
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: rgb(255, 0, 0);
+    font-size: 40px;
+}
+
+h2 {
+    color: rgb(120, 4, 112);
+}
+
+body {
+    background-color: rgb(245, 215, 170);
+    font-size: smaller;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+
+table {
+    color: rgb(4, 73, 73);
+    background-color: aliceblue;
+    font-family: monospace;
+    font-size: large;
+}
+
+ul {
+    font-style: italic;
+    color: darkblue;
+}
+
+img {
+    position: relative;
+    left: 300px;
+}
+.bold {
+    background-color: aquamarine;
+    font-size: xx-large;
+}
+
+.white {
+    background-color: black;
+    font-style: italic;
+    color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+#jack {
+    color:rgb(255, 0, 234);
+    background-color: rgb(44, 22, 36); 
+}
+
+#max {
+    background-color: coral;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    font-style: italic;
+
+}

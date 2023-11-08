@@ -1,0 +1,114 @@
+h1 {
+    font-size: 40px;
+    color: rgb(255, 0, 0);
+    text-align: center;
+    background-color:antiquewhite;
+    font-family:'Lora', serif,'Kaushan Script', cursive;
+    
+}
+
+h2 {
+    color:rgb(6, 0, 170);
+    font-family: 'Philosopher', sans-serif; 
+    text-align: center;
+}
+
+.who {
+    color: rgb(255, 1, 1);
+    font-weight: bolder;
+    font-family:'Lora', 'Kaushan Script', serif, bold;
+}
+
+a:link {
+    color:rgb(0, 0, 255);
+    background-color: transparent;
+    text-decoration: none;
+}
+
+body {
+    background-image: linear-gradient(rgba(194, 190, 190, 0.075), rgba(193, 191, 191, 0.544)), url(http://th.bing.com/th/id/OIP.hVjGSN6dDQHi3MExpCadtwHaE8?pid=ImgDet&rs=1);
+    text-align: justify;
+    background-repeat: no-repeat;
+    background-size:contain;
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-shadow: black;
+    background-color: rgba(121, 121, 121, 0.472);
+    text-shadow: rgb(0, 0, 0);
+}
+
+#uno{
+    background-color: rgb(255, 255, 255);
+    width: 600px;
+}
+
+#due {
+    background-color: rgba(255, 255, 255, 0.492);
+    width: fit-content;
+    text-align: justify;
+    position: relative;    
+}
+
+
+img {
+    position:relative;
+    display: block; margin-left: auto; margin-right: auto; width: 50%;  
+}
+
+
+#dovequando {
+    justify-content: space-between;
+    display: flex;
+}
+
+#dove {
+    position: relative;
+    display: inline;
+}
+
+#ora {
+    position: relative;
+    display: inline;    
+}
+
+#contatti {
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-size-adjust: 30px;
+}
+
+.fa-facebook {
+    color: rgb(13, 13, 187);
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    height: 15px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-whatsapp {
+    color: rgb(22, 130, 22);
+    font-size: 30px;
+    width: 15px;
+    height: 15px;
+    border-radius: 50%;
+    padding: 15px;
+    text-align: center;
+    text-decoration: none;
+}
+
+.fa-telegram {
+    color: rgb(13, 13, 187);
+    border-radius: 50%;
+    padding: 15px;
+    font-size: 15px;
+    width: 15px;
+    height: 15px;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: none;
+}
